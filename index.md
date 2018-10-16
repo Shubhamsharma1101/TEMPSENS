@@ -1,5 +1,5 @@
 
-# CENG 317  Temerature Sensor
+# CENG 317  Temperature Sensor
 
 ### SD card
 ![microsdhc invoice](https://user-images.githubusercontent.com/43188523/46380284-b54a1200-c66f-11e8-8144-becb057c051a.PNG)
