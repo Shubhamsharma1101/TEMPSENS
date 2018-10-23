@@ -1,6 +1,7 @@
 
 # CENG 317  Temperature Sensor
 
+
 ## Week 8:
 ### Breadboarding
 ![new](https://user-images.githubusercontent.com/43188523/47396477-efe81d00-d6f8-11e8-85ff-9e093e6c39ce.jpg)
@@ -23,3 +24,4 @@ Proof of Purchase
 
 ### Temerature Sensor
 ![sensor invoice](https://user-images.githubusercontent.com/43188523/46380296-bda24d00-c66f-11e8-8137-1adfde5b2ddf.PNG)
+
