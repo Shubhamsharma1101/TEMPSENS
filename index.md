@@ -4,8 +4,10 @@
 
 ## Week 8:
 
-### Fritzing diagram 
+### Fritzing Diagram 
 ![tmp1](https://user-images.githubusercontent.com/43188523/47401021-950cf080-d70d-11e8-8b8e-9edabccc461a.png)
+
+### Schematic Diagram
 ![tmp2](https://user-images.githubusercontent.com/43188523/47401023-96d6b400-d70d-11e8-8235-15feb9ab2e78.png)
 
 ### Breadboarding
