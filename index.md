@@ -21,6 +21,9 @@
 ### Soldering
 ![49496140-2e7a-4f1a-9f7f-fda96e96b70c](https://user-images.githubusercontent.com/43188523/47396441-c8915000-d6f8-11e8-9d36-5758861ce7bf.jpg)
 
+### Pseudo Assignment(UML)
+![uml](https://user-images.githubusercontent.com/43188523/47403251-ca6a0c00-d716-11e8-8a0c-e5e426de9498.PNG)
+
 ## Week5:
 Proof of Purchase
 ### SD card
