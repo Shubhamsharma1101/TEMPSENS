@@ -39,6 +39,6 @@ Proof of Purchase
 ## Week 3:
 ### Schedule
 ## Week 2:
-### Propasal
+### Proposal
 ## Week 1:
 ### Blinking LED
