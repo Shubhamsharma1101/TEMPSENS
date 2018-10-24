@@ -40,5 +40,9 @@ Proof of Purchase
 ### Schedule
 ## Week 2:
 ### Proposal
+
+![shubham proposal](https://user-images.githubusercontent.com/43188523/47402685-b0c7c500-d714-11e8-915b-5c8b4fa63e59.PNG)
+
+
 ## Week 1:
 ### Blinking LED
