@@ -5,7 +5,7 @@
 ## Week 8:
 
 ### Fritzing Diagram 
-![tmp1](https://user-images.githubusercontent.com/43188523/47401021-950cf080-d70d-11e8-8b8e-9edabccc461a.png)
+![fritizing diagram_bb](https://user-images.githubusercontent.com/43188523/47757979-474d3680-dc7f-11e8-8b3a-92f5012ec1c1.png)
 
 ### Schematic Diagram
 
