@@ -9,7 +9,8 @@
 
 ### Schematic Diagram
 
-![ceng317pcb_schem](https://user-images.githubusercontent.com/43188523/47757768-57b0e180-dc7e-11e8-98ea-597dc366e38b.png)
+![ceng317pcb_schem](https://user-images.githubusercontent.com/43188523/47757829-9c3c7d00-dc7e-11e8-9382-13289edcea19.png)
+
 
 ### Breadboarding
 ![new](https://user-images.githubusercontent.com/43188523/47396477-efe81d00-d6f8-11e8-85ff-9e093e6c39ce.jpg)
