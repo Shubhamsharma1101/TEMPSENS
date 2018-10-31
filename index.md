@@ -9,6 +9,9 @@ PCB design
 
 ![pcbcircuitboard_pcb](https://user-images.githubusercontent.com/43188523/47758173-33ee9b00-dc80-11e8-936f-78660a1faa6a.png)
 
+So its end of week 9 and i am pretty much done with half of my project .I have designed my pcb i used a 12 header pins because all my pins  that were to be connected were not in single line. So I uploaded two pictures one with the sensor and one with the 12 header pin.
+And i have sent my gerber files  to prototype lab so that they can give my designed PCB.
+
 ## Week 8:
 
 ### Fritzing Diagram 
