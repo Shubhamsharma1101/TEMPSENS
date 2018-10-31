@@ -28,7 +28,7 @@ And i have sent my gerber files  to prototype lab so that they can give my desig
 ### Working
 ![eed7d23c-5488-4dad-8136-a64f345be486](https://user-images.githubusercontent.com/43188523/47396423-b44d5300-d6f8-11e8-80f6-3aca06775948.jpg)
 
-As you can see in the picture there is my i2c address on the rpi terminal. Before it was showing me address (48)  instead of 4a when i connected all my wires and made  the connection for RPI terminal connection. Then I added one more wire i.e address wire which goes from SDA to ADD0.
+As you can see in the picture there is my i2c address on the rpi terminal. Before it was showing me address (48)  instead of 4a when i connected all my wires and made  the connection for RPI terminal connection. Then I added one more wire (IN PICTURE WHITE WIRE) i.e address wire which goes from SDA to ADD0.
 
 ## Week7:
 
