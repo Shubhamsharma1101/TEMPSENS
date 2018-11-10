@@ -3,6 +3,8 @@
 
 ## Week 10 
 
+PCB soldering
+
 ![pcb design](https://user-images.githubusercontent.com/43188523/48296731-7f672d00-e468-11e8-8140-c19316ed11c4.jpg)
 
 
