@@ -1,6 +1,12 @@
 
 # CENG 317  Temperature Sensor
 
+## Week 10 
+
+![pcb design](https://user-images.githubusercontent.com/43188523/48296731-7f672d00-e468-11e8-8140-c19316ed11c4.jpg)
+
+
+
 ## Week 9:
 PCB design 
 
