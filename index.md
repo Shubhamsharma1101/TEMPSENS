@@ -7,6 +7,7 @@ PCB soldering
 
 ![pcb design](https://user-images.githubusercontent.com/43188523/48296731-7f672d00-e468-11e8-8140-c19316ed11c4.jpg)
 
+PROGRESS REPORT:-
 So it is week 10 and I got my PCB today from the prototype lab. I was late in getting it because when i went on monday to confirm that wheter my PCB is done but vlad told me that they havn't recieved any email under my name then I showed him the mail I had sent and he replied  that it must be stuck in a spam or something like that and told me to re-send it again. So I got it on tuesday and did my soldering in the class. Once soldering was done so I tried to obtain my i2c address by connecting my PCB to the Raspberry and i was successful in doing it.
 
 ![img_6730](https://user-images.githubusercontent.com/43188523/48519503-223df380-e83b-11e8-937b-028482070368.PNG)
