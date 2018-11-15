@@ -17,7 +17,8 @@ Finally sparkfun gave me a hope they also had a code for my TMP102 sensor i foll
 
 <BR>
   
-  ![img_6731](https://user-images.githubusercontent.com/43188523/48521077-10f7e580-e841-11e8-8f13-4649757e7335.PNG)
+  ![tmp102](https://user-images.githubusercontent.com/43188523/48526197-c7b19100-e854-11e8-8d53-9bb89da56d6a.png)
+
 
 
 ## Week 10 
