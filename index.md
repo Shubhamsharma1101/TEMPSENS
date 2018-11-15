@@ -4,7 +4,8 @@
 
 PCB POWER UP
 <BR>
-  PROGRESS REPORT
+  
+ PROGRESS REPORT
   <BR>
 This week was PCB power up Milestone I  already tried to finish up with that during my weekend . For this I had to first learn some PYTHON language as I had never done that before.I searched on google for my code so that I have my readings on my sensor and tried alot of things by watching a  You tube  vedio as well. I followed all the steps as shown in the vedio and was able to get the redaing .
 The reading that i got was in hexadecimal . So I had to convert my hex value to dec I searched for it on google tried different ways to get upon that but  was not able to figure it out.
