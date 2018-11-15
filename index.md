@@ -33,7 +33,8 @@ So it is week 10 and I got my PCB today from the prototype lab. I was late in ge
   <BR> 
 So no additional expense was added in my original budget.
 
-![img_6730](https://user-images.githubusercontent.com/43188523/48519503-223df380-e83b-11e8-937b-028482070368.PNG)
+![img_6730](https://user-images.githubusercontent.com/43188523/48526380-78b82b80-e855-11e8-8536-2ad221079ebd.PNG)
+
 
 
 
