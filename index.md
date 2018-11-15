@@ -8,6 +8,12 @@ This week was PCB power up Milestone I  already tried to finish up with that dur
 The reading that i got was in hexadecimal . So I had to convert my hex value to dec I searched for it on google tried different ways to get upon that but  was not able to figure it out.
 Finally sparkfun gave me a hope they also had a code for my TMP102 sensor i followed all the steps in class and this was giving me a Remote I/O error so i googled how to get rid of the error and was successful . 
 
+
+<BR>
+  
+  ![img_6731](https://user-images.githubusercontent.com/43188523/48521077-10f7e580-e841-11e8-8f13-4649757e7335.PNG)
+
+
 ## Week 10 
 
 PCB soldering
