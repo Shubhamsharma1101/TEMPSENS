@@ -9,7 +9,7 @@ PCB POWER UP
   <BR>
   
   
-This week was PCB power up Milestone I  already tried to finish up with that during my weekend . For this I had to first learn some PYTHON language as I had never done that before.I searched on google for my code so that I have my readings on my sensor and tried alot of things by watching a  You tube  vedio as well. I followed all the steps as shown in the vedio and was able to get the redaing .
+This week was PCB power up Milestone I  already tried to finish up with that during my weekend . For this I had to first learn some PYTHON language as I had never done that before.I searched on google for my code so that I have my readings on my sensor and tried alot of things by watching a  You tube  video as well. I followed all the steps as shown in the vedio and was able to get the redaing .
 The reading that i got was in hexadecimal . So I had to convert my hex value to dec I searched for it on google tried different ways to get upon that but  was not able to figure it out.
 Finally sparkfun gave me a hope they also had a code for my TMP102 sensor i followed all the steps in class and this was giving me a Remote I/O error so i googled how to get rid of the error and was successful .Then I rubbed my hand and covered the sensor with my fingers and it was showing change in temperature.Also on blowing air from the mouth it shows a change in the readings.
 
