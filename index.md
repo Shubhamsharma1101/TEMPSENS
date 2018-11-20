@@ -17,7 +17,7 @@ This week was case design due. After I recieved all of my parts from the prototy
  <a href="https://github.com/Shubhamsharma1101/TEMPSENS/blob/master/TMP102_CASE.cdr">CorelDRAW FILE</a>
   
   
-![capture](https://user-images.githubusercontent.com/43188523/48807629-214e0b80-ecec-11e8-82af-422cf614ea93.PNG)
+<a href="https://github.com/Shubhamsharma1101/TEMPSENS/blob/master/TMP102_CASE.cdr">![capture](https://user-images.githubusercontent.com/43188523/48807629-214e0b80-ecec-11e8-82af-422cf614ea93.PNG)</a>
 
 
 
