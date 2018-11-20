@@ -39,6 +39,8 @@ Finally sparkfun gave me a hope they also had a code for my TMP102 sensor i foll
 <BR>
   
   ![tmp102](https://user-images.githubusercontent.com/43188523/48526197-c7b19100-e854-11e8-8d53-9bb89da56d6a.png)
+  <BR>
+ ## CODE
   
   https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/experiment-4-i2c-temperature-sensor
 
