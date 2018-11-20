@@ -12,6 +12,11 @@ This week was case design due. After I recieved all of my parts from the prototy
   
   
 ![capture](https://user-images.githubusercontent.com/43188523/48807629-214e0b80-ecec-11e8-82af-422cf614ea93.PNG)
+<BR>
+  CASE DESIGN
+  <BR>
+![blog](https://user-images.githubusercontent.com/43188523/48808375-9fabad00-ecee-11e8-82d1-0e6198d2120d.PNG)
+
 
 
 ## Week 11
