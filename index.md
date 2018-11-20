@@ -7,7 +7,10 @@ ENCLOSURE
 
 This week was case design due. After I recieved all of my parts from the prototype lab I assembled  them together with my PCB and RASPBERRY PI inside it . I kept my sensor out of the case cause I think it might affect the readings. All my parts are enclosed properly, easily accessible and securely attached.
 <BR>
+  
   CorelDRAW FILE
+  
+  
 ![capture](https://user-images.githubusercontent.com/43188523/48807629-214e0b80-ecec-11e8-82af-422cf614ea93.PNG)
 
 
