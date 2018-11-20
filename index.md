@@ -57,6 +57,8 @@ So no additional expense was added in my original budget.
 ![img_6730](https://user-images.githubusercontent.com/43188523/48526380-78b82b80-e855-11e8-8536-2ad221079ebd.PNG)
 
 
+https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/experiment-4-i2c-temperature-sensor
+
 
 
 
