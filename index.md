@@ -111,6 +111,8 @@ Also you can see in the picture there is my i2c address on the rpi terminal. Bef
 
 ## Week5:
 
+Parts recieved 
+
 
 ![acquisition](https://user-images.githubusercontent.com/43188523/48865553-f0c6aa00-ed9d-11e8-88aa-c748705e4d73.PNG)
 <BR>
