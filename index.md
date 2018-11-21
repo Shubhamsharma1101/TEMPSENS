@@ -111,6 +111,10 @@ Also you can see in the picture there is my i2c address on the rpi terminal. Bef
 
 ## Week5:
 Proof of Purchase
+
+![acquisition](https://user-images.githubusercontent.com/43188523/48865553-f0c6aa00-ed9d-11e8-88aa-c748705e4d73.PNG)
+<BR>
+  
 ### SD card
 ![microsdhc invoice](https://user-images.githubusercontent.com/43188523/46380284-b54a1200-c66f-11e8-8144-becb057c051a.PNG)
 
