@@ -135,7 +135,10 @@ I Recieved my raspberry pi within two days after ordering. However I recieved my
 ## Week 3:
 ### Schedule
 <BR>
-  ![capture](https://user-images.githubusercontent.com/43188523/49099837-7932c800-f240-11e8-8c30-17e3a1049ad8.PNG)
+
+![capture](https://user-images.githubusercontent.com/43188523/49099943-c0b95400-f240-11e8-9580-2254c927e3f7.PNG)
+
+
   <BR>
 ## Week 2:
 ### Proposal
