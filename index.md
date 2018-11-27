@@ -140,7 +140,9 @@ I Recieved my raspberry pi within two days after ordering. However I recieved my
 
 
   <BR>
-## Week 2:
+  
+## Week 2
+  
 ## PROPOSAL
 
 ![shubham proposal](https://user-images.githubusercontent.com/43188523/47402685-b0c7c500-d714-11e8-915b-5c8b4fa63e59.PNG)
