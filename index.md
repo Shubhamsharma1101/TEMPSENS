@@ -2,7 +2,7 @@
 # CENG 317 
 <BR>
 
-## Temperature Sensor
+## TMP102(Temperature Sensor)
 
 ## Week12 
 
