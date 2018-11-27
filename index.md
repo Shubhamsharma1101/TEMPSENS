@@ -3,6 +3,11 @@
 <BR>
 
 ## TMP102(Temperature Sensor)
+## week13
+
+PRESENTATION
+<BR>
+[Tmp102 (Temperature sensor).pptx](https://github.com/Shubhamsharma1101/TEMPSENS/files/2621924/Tmp102.Temperature.sensor.pptx)
 
 ## Week12 
 
