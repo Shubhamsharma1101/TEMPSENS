@@ -100,6 +100,12 @@ Next step is to get your PCB board made once you have got your PCB  solder the s
 ![img_6730](https://user-images.githubusercontent.com/43188523/48526380-78b82b80-e855-11e8-8536-2ad221079ebd.PNG)
 <BR>
   
+  ## OBTAINING THE READINGS
+  
+  HERE'S THE LINK FOR MY CODE
+  
+    https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/experiment-4-i2c-temperature-sensor
+  
 
 
 
