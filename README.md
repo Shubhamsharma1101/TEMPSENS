@@ -82,6 +82,8 @@ If you didn't get the same ADDRESS, there is something worng with your circuit c
 
 
 ![pcb design](https://user-images.githubusercontent.com/43188523/48296731-7f672d00-e468-11e8-8140-c19316ed11c4.jpg)
+
+![pcb design](https://user-images.githubusercontent.com/43188523/47758026-91361c80-dc7f-11e8-9600-06b16a07793b.png)
   
   
     
