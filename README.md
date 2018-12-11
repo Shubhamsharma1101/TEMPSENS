@@ -84,6 +84,8 @@ Now that you know how to connect your sensor to raspberry pi you can start worki
   
     
 ![pcbcircuitboard_pcb](https://user-images.githubusercontent.com/43188523/47758173-33ee9b00-dc80-11e8-936f-78660a1faa6a.png)
+<BR>
+The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom.
 
 ![img_6730](https://user-images.githubusercontent.com/43188523/48526380-78b82b80-e855-11e8-8536-2ad221079ebd.PNG)
 
