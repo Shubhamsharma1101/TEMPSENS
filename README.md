@@ -83,10 +83,6 @@ If you didn't get the same ADDRESS, there is something worng with your circuit c
 
 ![pcb design](https://user-images.githubusercontent.com/43188523/48296731-7f672d00-e468-11e8-8140-c19316ed11c4.jpg)
 
-![pcb design](https://user-images.githubusercontent.com/43188523/47758026-91361c80-dc7f-11e8-9600-06b16a07793b.png)
-
-![fritizing diagram_bb](https://user-images.githubusercontent.com/43188523/47757979-474d3680-dc7f-11e8-8b3a-92f5012ec1c1.png)
-
 ![pcbcircuitboard_pcb](https://user-images.githubusercontent.com/43188523/47758173-33ee9b00-dc80-11e8-936f-78660a1faa6a.png)
   
   
