@@ -72,7 +72,9 @@ TO OBTAIN ADDRESS USE THE FOLLOWING COMMAND AFTER MAKING THE CONNECTION WITH YOU
 
   
  ## i2cdetect -y 1
- 
+ <BR>
+
+If you didn't get the same ADDRESS, there is something worng with your circuit check the connections properly.
   
   
     
