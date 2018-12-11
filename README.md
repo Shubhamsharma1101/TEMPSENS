@@ -13,12 +13,12 @@ The sensor will give temperature readings of the objects like battery and circui
   
   In order to build this project these are the essential components that you need:
 
-:-Raspberry pi
-:-TMP102 ( Temperature Sensor)
-:- Jumper wires and breadboard to obtain the i2c address for the sensor on the temporary circuit.
-:- PCB board with final circuit printed on it .
-:- Header pins to attach raspberry pi and the sensor together on PCB.
-:- Case to hold ciruit together and prevent it from damaging.
+:-Raspberry pi<BR>
+:-TMP102 ( Temperature Sensor)<BR>
+:- Jumper wires and breadboard to obtain the i2c address for the sensor on the temporary circuit.<BR>
+:- PCB board with final circuit printed on it .<BR>
+:- Header pins to attach raspberry pi and the sensor together on PCB.<BR>
+:- Case to hold ciruit together and prevent it from damaging.<BR>
 
  
 ## TOTAL EXPENCE OF THE PROJECT
