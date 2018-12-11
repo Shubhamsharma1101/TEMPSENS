@@ -44,14 +44,7 @@ By going through all the instructions and following them carefully and properly 
   [schedule.zip](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669568/schedule.zip)
   
   <BR>
-  
-  ![capture](https://user-images.githubusercontent.com/43188523/49099943-c0b95400-f240-11e8-9580-2254c927e3f7.PNG)
-  
-  
-
-
-
-[schedule.zip](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669568/schedule.zip)
+ 
 ![capture](https://user-images.githubusercontent.com/43188523/49832975-2c81dd80-fd66-11e8-9e3e-3fffc41aaa28.PNG)
 
   
