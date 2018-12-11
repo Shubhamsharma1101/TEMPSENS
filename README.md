@@ -126,7 +126,9 @@ Then I rubbed my hand and covered the sensor with my fingers and it was showing 
   <BR>
   
   ![blog](https://user-images.githubusercontent.com/43188523/48808375-9fabad00-ecee-11e8-82d1-0e6198d2120d.PNG)
-
+  <BR>
+  To build a case that is perfect for your pi first thing to do is to get all the measurements for example Height, Width, Length ACCORDINGLY so that everything is  stored inside the case I kept my sensor out resying on top because i thought it would give more accurate readings.
+ 
 
 
   
