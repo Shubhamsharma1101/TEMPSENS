@@ -23,6 +23,6 @@ The sensor will give temperature readings of the objects like battery and circui
  
 ## TOTAL EXPENCE OF THE PROJECT
 
-Here is the budget of my project by opening the link below you can check the total cost of it and by further clicking on the components such as raspberry pi you can check the website from where I bought the parts .
+Here is the budget of my project by opening the link below you can check the total cost of it and by further clicking on the components such as raspberry pi you can check the website from where I bought each part .
 <BR>
 [shubam_budget (2).xlsx](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669488/shubam_budget.2.xlsx)
