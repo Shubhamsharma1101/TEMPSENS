@@ -99,7 +99,9 @@ Next step is to get your PCB board made once you have got your PCB  solder the s
 
 ![img_6730](https://user-images.githubusercontent.com/43188523/48526380-78b82b80-e855-11e8-8536-2ad221079ebd.PNG)
 <BR>
-  
+  After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
+
+
 
 
 
