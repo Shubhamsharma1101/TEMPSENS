@@ -79,7 +79,9 @@ If you didn't get the same ADDRESS, there is something worng with your circuit c
 ## PCB AND SOLDERING
 <BR>
 Now that you know how to connect your sensor to raspberry pi you can start working on PCB that is to bring circuit that you made on a board permanently. For that you have to carefully design your PCB using software called Fritzing which will help you to design your PCB it should look like this:
+  
   <BR>
+  
     
 ![pcbcircuitboard_pcb](https://user-images.githubusercontent.com/43188523/47758173-33ee9b00-dc80-11e8-936f-78660a1faa6a.png)
 
