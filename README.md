@@ -23,5 +23,5 @@ The sensor will give temperature readings of the objects like battery and circui
  
 ## TOTAL EXPENCE OF THE PROJECT
 
-
-https://github.com/Shubhamsharma1101/TEMPSENS/blob/master/Documents/shubam_budget%20(2).xlsx
+bUDGET
+[shubam_budget (2).xlsx](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669488/shubam_budget.2.xlsx)
