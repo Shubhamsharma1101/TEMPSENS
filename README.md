@@ -43,6 +43,10 @@ By going through all the instructions and following them carefully and properly 
   
   [schedule.zip](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669568/schedule.zip)
   
+  <BR>
+  
+  ![capture](https://user-images.githubusercontent.com/43188523/49099943-c0b95400-f240-11e8-9580-2254c927e3f7.PNG)
+  
   
   
   
