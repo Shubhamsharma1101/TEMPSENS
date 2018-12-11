@@ -65,7 +65,7 @@ Once you have installed required OS and softwares in your reaspberry pi time to 
 
 <BR>
   
-Also you can see in the picture there is my i2c address on the rpi terminal. Before it was showing me address (48) instead of 4a when i connected all my wires and made the connection for RPI terminal connection. Then I added one more wire (IN PICTURE WHITE WIRE) i.e address wire which goes from SDA to ADD0.
+Also you can see in the picture there is my i2c address on the rpi terminal. Before it was showing me address (48) instead of (4a) when I connected all my wires and made the connection for RPI terminal connection. Then I added one more wire (IN PICTURE WHITE WIRE) i.e address wire which goes from SDA to ADD0.
   
   
   
