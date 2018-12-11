@@ -26,3 +26,16 @@ The sensor will give temperature readings of the objects like battery and circui
 Here is the budget of my project by opening the link below you can check the total cost of it and by further clicking on the components such as raspberry pi you can check the website from where I bought each part .
 <BR>
 [shubam_budget (2).xlsx](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669488/shubam_budget.2.xlsx)
+  <BR>
+    
+## TIME REQUIRED 
+By going through all the instructions and following them carefully and properly you can make the project within a time span of two days . ONCE YOU GET ALL THE PARTS YOU REQUIRE FOR THE PROJECT.
+  And if you are pursuing other courses in a school then you need to make a proper schedule so that equal time is given on each and everything . 
+  <BR>
+  Here's what my schedule looks like . (CLICK ON THE LINK BELOW)
+  
+  
+  
+  
+    
+    
