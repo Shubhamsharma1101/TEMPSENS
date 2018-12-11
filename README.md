@@ -114,13 +114,18 @@ Next step is to get your PCB board made once you have got your PCB  solder the s
    ![tmp102](https://user-images.githubusercontent.com/43188523/48526197-c7b19100-e854-11e8-8d53-9bb89da56d6a.png)
    
    <BR>
- 
-
-
-
-
 
 Then I rubbed my hand and covered the sensor with my fingers and it was showing change in temperature.Also on blowing air from the mouth it shows a change in the readings.
+
+
+<BR>
+  
+  ## ENCLOSURE
+  
+  All my parts are enclosed properly, easily accessible and securely attached.
+  <BR>
+  
+  ![blog](https://user-images.githubusercontent.com/43188523/48808375-9fabad00-ecee-11e8-82d1-0e6198d2120d.PNG)
 
 
 
