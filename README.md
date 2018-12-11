@@ -108,7 +108,13 @@ Next step is to get your PCB board made once you have got your PCB  solder the s
   
   <BR>
   
-  If all the instructions are followed carefully and step by step as shown in the link then you should be able to detect your readings for the sensor.
+  If all the instructions are followed carefully and step by step as shown in the link then you should be able to detect your readings for the sensor.<BR>
+
+
+
+
+
+Then I rubbed my hand and covered the sensor with my fingers and it was showing change in temperature.Also on blowing air from the mouth it shows a change in the readings.
 
 
 
