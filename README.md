@@ -128,7 +128,14 @@ Then I rubbed my hand and covered the sensor with my fingers and it was showing 
   ![blog](https://user-images.githubusercontent.com/43188523/48808375-9fabad00-ecee-11e8-82d1-0e6198d2120d.PNG)
   <BR>
   To build a case that is perfect for your pi first thing to do is to get all the measurements for example Height, Width, Length ACCORDINGLY so that everything is  stored inside the case I kept my sensor out resying on top because i thought it would give more accurate readings.
- 
+  <BR>
+    
+  ## PRODUCTION TESTING
+  
+  <BR>
+  
+For mass production of this sensor(tmp102) ,  first thing is to check if everyting required for making the project is already available and you make sure that nothing running out of stock otherwise it will be a huge problem to stop production in the middle of the project.
+Testing is the main part it is important to check if the sensor is at its right address to get the readings. You could also speed up the process by speeding up soldering part that takes most of the time in project by using automatic soldering machine.
 
 
   
