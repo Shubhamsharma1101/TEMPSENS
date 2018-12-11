@@ -109,6 +109,12 @@ Next step is to get your PCB board made once you have got your PCB  solder the s
   <BR>
   
   If all the instructions are followed carefully and step by step as shown in the link then you should be able to detect your readings for the sensor.<BR>
+  
+  
+   ![tmp102](https://user-images.githubusercontent.com/43188523/48526197-c7b19100-e854-11e8-8d53-9bb89da56d6a.png)
+   
+   <BR>
+ 
 
 
 
