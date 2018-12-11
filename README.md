@@ -78,7 +78,8 @@ If you didn't get the same ADDRESS, there is something worng with your circuit c
 
 ## PCB AND SOLDERING
 <BR>
-Now that you know how to connect your sensor to raspberry pi you can start working on PCB that is to bring circuit that you made on a board permanently. For that you have to carefully design your PCB using software called Fritzing which will help you to design your PCB it should look like this:<BR>
+Now that you know how to connect your sensor to raspberry pi you can start working on PCB that is to bring circuit that you made on a board permanently. For that you have to carefully design your PCB using software called Fritzing which will help you to design your PCB.
+ The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom of the PCB . It should look like this:<BR>
   
   <BR>
   
