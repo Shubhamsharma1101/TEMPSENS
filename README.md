@@ -122,7 +122,7 @@ Then I rubbed my hand and covered the sensor with my fingers and it was showing 
   
   ## ENCLOSURE
   
-  All my parts are enclosed properly, easily accessible and securely attached.
+  All my parts are enclosed properly, easily accessible and securely attached.To build case for your pi you have to software called Corel Draw
   <BR>
   
   ![blog](https://user-images.githubusercontent.com/43188523/48808375-9fabad00-ecee-11e8-82d1-0e6198d2120d.PNG)
