@@ -33,6 +33,8 @@ By going through all the instructions and following them carefully and properly 
   And if you are pursuing other courses in a school then you need to make a proper schedule so that equal time is given on each and everything . 
   <BR>
   Here's what my schedule looks like . (CLICK ON THE LINK BELOW)
+  <BR>
+  [schedule.zip](https://github.com/Shubhamsharma1101/TEMPSENS/files/2669568/schedule.zip)
   
   
   
