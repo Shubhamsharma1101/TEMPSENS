@@ -78,6 +78,7 @@ If you didn't get the same ADDRESS, there is something worng with your circuit c
 
 ## PCB AND SOLDERING
 
+![49496140-2e7a-4f1a-9f7f-fda96e96b70c](https://user-images.githubusercontent.com/43188523/47396441-c8915000-d6f8-11e8-9d36-5758861ce7bf.jpg)
 
   
   
