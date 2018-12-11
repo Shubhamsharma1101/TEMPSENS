@@ -46,7 +46,18 @@ By going through all the instructions and following them carefully and properly 
   <BR>
  
 ![capture](https://user-images.githubusercontent.com/43188523/49832975-2c81dd80-fd66-11e8-9e3e-3fffc41aaa28.PNG)
+<BR>
+  
+## MECHANICAL ASSEMBLY
+  
+## Setup raspberry pi
+Once you have got your raspberry pi start working on its functionality download required operating System and allow all the permissions required. 
 
+<BR>
+  
+## Hardware Setup ON BREADBOARD to check the address.
+  
+Once you have installed required OS and softwares in your reaspberry pi time to get your hardware ready. starting with connections you have to make sure your sensor is at the right address. In this case required address is Ox4a . 
   
   
   
